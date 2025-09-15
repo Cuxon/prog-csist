@@ -1,0 +1,39 @@
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / JetBrains
+.idea/
+*.iml
+
+# Packages
+*.nupkg
+*.snupkg
+*.nuspec
+*.dll
+*.exe
+*.cache
+*.pdb
+
+# Other
+*.dbmdl
+*.bak
+
+# OS generated files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+.DfStore
+.fseventsd
